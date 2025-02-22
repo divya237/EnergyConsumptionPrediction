@@ -1,4 +1,4 @@
-# 🔋 Energy Consumption Prediction
+# 🔋 Energy Consumption Analysis
 
 ## 📌 Overview
 This project aims to predict energy consumption based on building features and environmental factors using a **Linear Regression model**. The analysis explores how different attributes influence energy usage and helps in optimizing energy efficiency.
